@@ -8,7 +8,7 @@
   make: Airbus
   model: A321-200
   version: February 2019 Version 2
-  slug: aegean-airbus-a321-200-february-2019 version-2
+  slug: aegean-airbus-a321-200-february-2019-version-2
 
 - carrier: Aero Republica
   make: Embraer
@@ -194,7 +194,7 @@
   make: Airbus
   model: A380
   version:
-  slug: china-southern-airbus-a380-
+  slug: china-southern-airbus-a380
 
 - carrier: Copa
   make: Embraer

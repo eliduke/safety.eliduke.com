@@ -1,3 +1,7 @@
 ---
 layout: default
 ---
+
+{% for manual in site.data.manuals %}
+  <img src="https://safetymanuals.b-cdn.net/manuals/{{manual.slug}}-small.jpg">
+{% endfor %}
