@@ -36,9 +36,32 @@
     <link rel="stylesheet" href="/css/app.css?v={{ site.time | date: '%s' }}">
   </head>
 
-  <body class="my-4">
-    <div class="container">
-      {{ content }}
+  <body class="">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-3 bg-secondary-subtle mb-lg-3">
+          <ul class="nav nav-pills flex-row flex-lg-column py-2 pt-lg-3">
+            <li class="nav-item fw-bold">
+              <a href="/" class="nav-link link-dark">
+                Safety Manuals
+              </a>
+            </li>
+            <li>
+              <a href="/list" class="nav-link link-dark">
+                List
+              </a>
+            </li>
+            <li>
+              <a href="/about" class="nav-link link-dark">
+                About
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-9">
+          {{ content }}
+        </div>
+      </div>
     </div>
   </body>
 </html>

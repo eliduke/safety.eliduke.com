@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div id="list" class="p-0 p-lg-3">
+  <div class="row">
+    <table class="table table-striped">
+      <thead class="table-dark">
+        <tr>
+          <th>Carrier</th>
+          <th>Make</th>
+          <th>Model</th>
+          <th>Mode</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for manual in site.data.manuals %}
+          <tr>
+            <td>{{manual.carrier}}</td>
+            <td>{{manual.make}}</td>
+            <td>{{manual.model}}</td>
+            <td>{{manual.mode}}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
