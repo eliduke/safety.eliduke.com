@@ -1,7 +1,17 @@
 ---
 layout: default
 ---
+<h1 class="text-center mb-4">In-Flight Safety Manuals</h1>
 
-{% for manual in site.data.manuals %}
-  <img src="https://safetymanuals.b-cdn.net/manuals/{{manual.slug}}-small.jpg">
-{% endfor %}
+<div class="row">
+  <div class="col">
+    <div class="d-inline-flex flex-wrap flex-row justify-content-evenly align-items-center">
+      {% for manual in site.data.manuals %}
+        <div class="manual p-2">
+          <img class="img-fluid" src="https://safetymanuals.b-cdn.net/manuals/{{manual.slug}}-small.jpg">
+          <p class="text-center text-muted">{{manual.carrier}}, {{manual.make}} {{manual.model}}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
