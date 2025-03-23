@@ -1,485 +1,566 @@
 - carrier: Aegean
   make: Airbus
   model: A320-200
+  mode: Plane
   version: February 2019 Version-2
   slug: aegean-airbus-a320-200-february-2019-version-2
 
 - carrier: Aegean
   make: Airbus
   model: A321-200
+  mode: Plane
   version: February 2019 Version 2
   slug: aegean-airbus-a321-200-february-2019-version-2
 
 - carrier: Aero Republica
   make: Embraer
   model: E190
+  mode: Plane
   version: 2009
   slug: aero-republica-embraer-e190-2009
 
 - carrier: Air Berlin
   make: Airbus
   model: A330
+  mode: Plane
   version: 2
   slug: air-berlin-airbus-a330-2
 
 - carrier: Air Berlin
   make: Boeing
   model: B737-700
+  mode: Plane
   version: 1
   slug: air-berlin-boeing-b737-700-1
 
 - carrier: Air Berlin
   make: Bombardier
   model: Dash8-Q400
+  mode: Plane
   version: 2
   slug: air-berlin-bombardier-dash8-q400-2
 
 - carrier: Air Canada
   make: Bombardier
   model: Q400
+  mode: Plane
   version: March 2012
   slug: air-canada-bombardier-q400-march-2012
 
 - carrier: Air France
   make: Airbus
   model: A320
+  mode: Plane
   version: 06-16
   slug: air-france-airbus-a320-06-16
 
 - carrier: Air France
   make: Airbus
   model: A321
+  mode: Plane
   version: 03-14
   slug: air-france-airbus-a321-03-14
 
 - carrier: Air Greenland
   make: Airbus
   model: A330
+  mode: Plane
   version: 1
   slug: air-greenland-airbus-a330-1
 
 - carrier: Air New Zealand
   make: Boeing
   model: B737-300
+  mode: Plane
   version: Z7301
   slug: air-new-zealand-boeing-b737-300-z7301
 
 - carrier: Air New Zealand
   make: Boeing
   model: B767-300
+  mode: Plane
   version: July 2016
   slug: air-new-zealand-boeing-b767-300-july-2016
 
 - carrier: Air New Zealand
   make: Boeing
   model: B777-200
+  mode: Plane
   version: July 2016
   slug: air-new-zealand-boeing-b777-200-july-2016
 
 - carrier: Alaska
   make: Airbus
   model: A319/A320
+  mode: Plane
   version: 1118
   slug: alaska-airbus-a319a320-1118
 
 - carrier: Alaska
   make: Airbus
   model: A321 Rafts
+  mode: Plane
   version: 1118
   slug: alaska-airbus-a321-rafts-1118
 
 - carrier: Alaska
   make: Boeing
   model: 737-700
+  mode: Plane
   version: 11-04
   slug: alaska-boeing-737-700-11-04
 
 - carrier: Alaska
   make: Boeing
   model: 737-800/900
+  mode: Plane
   version: 06-16
   slug: alaska-boeing-737-800900-06-16
 
 - carrier: Alaska
   make: Boeing
   model: 737-800/900
+  mode: Plane
   version: 08-06
   slug: alaska-boeing-737-800900-08-06
 
 - carrier: Alaska
   make: Boeing
   model: 737-900ER
+  mode: Plane
   version: 04-14
   slug: alaska-boeing-737-900er-04-14
 
 - carrier: Alaska / Skywest
   make: Embraer
   model: E175
+  mode: Plane
   version: 1018
   slug: alaska-embraer-skywest-e175-1018
 
 - carrier: American
   make: Airbus
   model: A330
+  mode: Plane
   version: 04-15
   slug: american-airbus-a330-04-15
 
 - carrier: American
   make: Airbus
   model: A321s
+  mode: Plane
   version: 0516
   slug: american-airbus-a321s-0516
 
 - carrier: American
   make: Airbus
-  model: A321s
+  model: A321S
+  mode: Plane
   version: 0814
   slug: american-airbus-a321s-0814
 
 - carrier: American
   make: Boeing
   model: 737
+  mode: Plane
   version: 04-08
   slug: american-boeing-737-04-08
 
 - carrier: American
   make: Boeing
   model: 737
+  mode: Plane
   version: 2012
   slug: american-boeing-737-2012
 
 - carrier: American
   make: Boeing
   model: 767
+  mode: Plane
   version: 04-09
   slug: american-boeing-767-04-09
 
 - carrier: American
   make: Boeing
   model: 787
+  mode: Plane
   version: 0916
   slug: american-boeing-787-0916
 
 - carrier: American Eagle
   make: Bombardier
   model: CRJ
+  mode: Plane
   version: 04-11
   slug: american-eagle-bombardier-crj-04-11
 
 - carrier: American
   make: Embraer
   model: E175
+  mode: Plane
   version: 1115
   slug: american-embraer-e175-1115
 
 - carrier: American
   make: Mcdonnell Douglas
   model: S80
+  mode: Plane
   version: 10-08
   slug: american-mcdonnell-douglas-s80-10-08
 
 - carrier: Amtrak
   make: Bombardier
   model: Superliner
+  mode: Train
   version: 2001
   slug: amtrak-bombardier-superliner-2001
 
 - carrier: Amtrak Cascades
   make: Talgo
   model: Series VI
+  mode: Train
   version: A
   slug: amtrak-cascades-talgo-series-vi-a
 
 - carrier: Avianca
   make: Fokker
   model: 100
+  mode: Plane
   version: 01-06
   slug: avianca-fokker-100-01-06
 
 - carrier: China Southern
   make: Airbus
   model: A380
+  mode: Plane
   version:
   slug: china-southern-airbus-a380
 
 - carrier: Copa
   make: Embraer
   model: E190
+  mode: Plane
   version: 2009
   slug: copa-embraer-190-2009
 
 - carrier: Delta
   make: Airbus
   model: A320 SR
+  mode: Plane
   version: 04-09
   slug: delta-airbus-a320-sr-04-09
 
 - carrier: Delta
   make: Boeing
   model: B717-200
+  mode: Plane
   version: 11-15
   slug: delta-boeing-b717-200-11-15
 
 - carrier: Delta
   make: Boeing
   model: B737-800
+  mode: Plane
   version: 01-18
   slug: delta-boeing-b737-800-01-18
 
 - carrier: Delta
   make: Boeing
   model: B757-300
+  mode: Plane
   version: 03-15
   slug: delta-boeing-b757-300-03-15
 
 - carrier: Delta
   make: Bombardier
   model: CRJ700(OO)
+  mode: Plane
   version: 10-12
   slug: delta-bombardier-crj700-10-12
 
 - carrier: Emirates
   make: Boeing
   model: B777-300
+  mode: Plane
   version: 02-09
   slug: emirates-boeing-b777-300-02-09
 
 - carrier: Frontier
   make: Airbus
   model: A319
+  mode: Plane
   version: 01-09
   slug: frontier-airbus-a319-01-09
 
 - carrier: Frontier
   make: Airbus
   model: A319
+  mode: Plane
   version: 03-10
   slug: frontier-airbus-a319-03-10
 
 - carrier: Frontier
   make: Airbus
   model: A320
+  mode: Plane
   version: 0618
   slug: frontier-airbus-a320-0618
 
 - carrier: Hawaiian
   make: Airbus
   model: A330
+  mode: Plane
   version: 06-15
   slug: hawaiian-airbus-a330-06-15
 
 - carrier: Hawaiian
   make: Boeing
   model: B717
+  mode: Plane
   version: 01-15
   slug: hawaiian-boeing-b717-01-15
 
 - carrier: Hawaiian
   make: Boeing
   model: B717
+  mode: Plane
   version: 07-04
   slug: hawaiian-boeing-b717-07-04
 
 - carrier: Hawaiian
   make: Boeing
   model: B767
+  mode: Plane
   version: 2010
   slug: hawaiian-boeing-b767-2010
 
 - carrier: Icelandair
   make: Boeing
   model: 757-200
+  mode: Plane
   version: FBO51-R3
   slug: icelandair-boeing-757-200-fbo51-r3
 
 - carrier: Icelandair
   make: Boeing
   model: 767-300
+  mode: Plane
   version: FB050-R2
   slug: icelandair-boeing-767-300-fb050-r2
 
 - carrier: Jet
   make: Airbus
   model: A320
+  mode: Plane
   version: V1
   slug: jet-airbus-a320-v1
 
 - carrier: Jetblue
   make: Airbus
   model: A320
+  mode: Plane
   version: 10-16
   slug: jetblue-airbus-a320-10-16
 
 - carrier: Kenn Borek Air
   make: de Havilland DHC-6
   model: Twin Otter
+  mode: Plane
   version: 05-06
   slug: kenn-borek-air-de-havilland-dhc-6-twin-otter-05-06
 
 - carrier: Kenn Borek Air
   make: Douglas
   model: DC-3
+  mode: Plane
   version: 08-11
   slug: kenn-borek-air-douglas-dc-3-08-11
 
 - carrier: Kiwirail
   make: Dilian
   model: Locomotive
+  mode: Train
   version: DL
   slug: kiwirail-dilian-locomotive-dl
 
 - carrier: Latam
   make: Boeing
   model: B787-8
+  mode: Plane
   version: 002016
   slug: latam-boeing-b787-8-002016
 
 - carrier: Lufthansa
   make: Airbus
   model: A319-100
+  mode: Plane
   version: 03-16
   slug: lufthansa-airbus-a319-100-03-16
 
 - carrier: Northwest
   make: Airbus
   model: A320-SR
+  mode: Plane
   version: 08-06
   slug: northwest-airbus-a320-sr-08-06
 
 - carrier: Northwest
   make: Mcdonnell Douglas
   model: DC-9
+  mode: Plane
   version:
   slug: northwest-mcdonnell-douglas-dc-9
 
 - carrier: Nouvelair
   make: Airbus
   model: A320
+  mode: Plane
   version: 1
   slug: nouvelair-airbus-a320-1
 
 - carrier: PHI
   make: Bell
   model: 212
+  mode: Helicopter
   version: 04-10
   slug: phi-bell-212-04-10
 
 - carrier: QANTAS
   make: Boeing
   model: 767-338
+  mode: Plane
   version: 1
   slug: qantas-boeing-767-338-1
 
 - carrier: Republic
   make: Embraer
   model: 170/175
+  mode: Plane
   version: 03-07
   slug: republic-embraer-170175-03-07
 
 - carrier: Republic
   make: Embraer
   model: E170/175
+  mode: Plane
   version: 0316
   slug: republic-embraer-e170175-0316
 
 - carrier: RNZAF
   make: Boeing
   model: 757-200
+  mode: Plane
   version: 1
   slug: rnzaf-boeing-757-200-1
 
 - carrier: Royal Air Maroc
   make: Boeing
   model: B737-800
+  mode: Plane
   version: 1
   slug: royal-air-maroc-boeing-b737-800-1
 
 - carrier: Skytraders
   make: Airbus
   model: 319-ER
+  mode: Plane
   version: 08-10
   slug: skytraders-airbus-319-er-08-10
 
 - carrier: Skywest
   make: Bombardier
   model: CRJ700
+  mode: Plane
   version: 03-11
   slug: skywest-bombardier-crj700-03-11
 
 - carrier: Southwest
   make: Boeing
   model: 737
+  mode: Plane
   version: 12-07
   slug: southwest-boeing-737-12-07
 
 - carrier: Southwest
   make: Boeing
   model: 737
+  mode: Plane
   version: 12-09
   slug: southwest-boeing-737-12-09
 
 - carrier: Southwest
   make: Boeing
   model: 737-700
+  mode: Plane
   version: 0718
   slug: southwest-boeing-737-700-0718
 
 - carrier: Southwest
   make: Boeing
   model: 737-700/800
+  mode: Plane
   version: 11-16
   slug: southwest-boeing-737-700800-11-16
 
 - carrier: Southwest
   make: Boeing
   model: 737-800
+  mode: Plane
   version: 0419
   slug: southwest-boeing-737-800-0419
 
 - carrier: United
   make: Airbus
   model: A319
+  mode: Plane
   version: R3
   slug: united-airbus-a319-r3
 
 - carrier: United
   make: Boeing
   model: B737-800/900
+  mode: Plane
   version: R2
   slug: united-boeing-b737-800900-r2
 
 - carrier: United
   make: Boeing
   model: B757-200
+  mode: Plane
   version: R2
   slug: united-boeing-b757-200-r2
 
 - carrier: United
   make: Boeing
   model: B777-200
+  mode: Plane
   version: R1
   slug: united-boeing-b777-200-r1
 
 - carrier: United
   make: Boeing
   model: B737-700
+  mode: Plane
   version: R3
   slug: united-boeing-b737-700-r3
 
 - carrier: US Airways
   make: Airbus
   model: A320
+  mode: Plane
   version: R2
   slug: us-airways-airbus-a320-r2
 
 - carrier: US Airways
   make: Bombardier
   model: Dash 8-300
+  mode: Plane
   version: R1
   slug: us-airways-bombardier-dash-8-300-r1
 
 - carrier: Virgin
   make: Airbus
   model: A321
+  mode: Plane
   version: 2
   slug: virgin-airbus-a321-2
