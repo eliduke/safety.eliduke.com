@@ -28,17 +28,17 @@
 
 - carrier: Air Berlin
   make: Boeing
-  model: B737-700
+  model: 737-700
   mode: Plane
   version: 1
-  slug: air-berlin-boeing-b737-700-1
+  slug: air-berlin-boeing-737-700-1
 
 - carrier: Air Berlin
   make: Bombardier
-  model: Dash8-Q400
+  model: Dash 8-Q400
   mode: Plane
   version: 2
-  slug: air-berlin-bombardier-dash8-q400-2
+  slug: air-berlin-bombardier-dash-8-q400-2
 
 - carrier: Air Canada
   make: Bombardier
@@ -70,24 +70,24 @@
 
 - carrier: Air New Zealand
   make: Boeing
-  model: B737-300
+  model: 737-300
   mode: Plane
   version: Z7301
-  slug: air-new-zealand-boeing-b737-300-z7301
+  slug: air-new-zealand-boeing-737-300-z7301
 
 - carrier: Air New Zealand
   make: Boeing
-  model: B767-300
+  model: 767-300
   mode: Plane
   version: July 2016
-  slug: air-new-zealand-boeing-b767-300-july-2016
+  slug: air-new-zealand-boeing-767-300-july-2016
 
 - carrier: Air New Zealand
   make: Boeing
-  model: B777-200
+  model: 777-200
   mode: Plane
   version: July 2016
-  slug: air-new-zealand-boeing-b777-200-july-2016
+  slug: air-new-zealand-boeing-777-200-july-2016
 
 - carrier: Alaska
   make: Airbus
@@ -147,7 +147,7 @@
 
 - carrier: American
   make: Airbus
-  model: A321s
+  model: A321S
   mode: Plane
   version: 0516
   slug: american-airbus-a321s-0516
@@ -252,24 +252,24 @@
 
 - carrier: Delta
   make: Boeing
-  model: B717-200
+  model: 717-200
   mode: Plane
   version: 11-15
-  slug: delta-boeing-b717-200-11-15
+  slug: delta-boeing-717-200-11-15
 
 - carrier: Delta
   make: Boeing
-  model: B737-800
+  model: 737-800
   mode: Plane
   version: 01-18
-  slug: delta-boeing-b737-800-01-18
+  slug: delta-boeing-737-800-01-18
 
 - carrier: Delta
   make: Boeing
-  model: B757-300
+  model: 757-300
   mode: Plane
   version: 03-15
-  slug: delta-boeing-b757-300-03-15
+  slug: delta-boeing-757-300-03-15
 
 - carrier: Delta
   make: Bombardier
@@ -280,10 +280,10 @@
 
 - carrier: Emirates
   make: Boeing
-  model: B777-300
+  model: 777-300
   mode: Plane
   version: 02-09
-  slug: emirates-boeing-b777-300-02-09
+  slug: emirates-boeing-777-300-02-09
 
 - carrier: Frontier
   make: Airbus
@@ -315,24 +315,24 @@
 
 - carrier: Hawaiian
   make: Boeing
-  model: B717
+  model: 717
   mode: Plane
   version: 01-15
-  slug: hawaiian-boeing-b717-01-15
+  slug: hawaiian-boeing-717-01-15
 
 - carrier: Hawaiian
   make: Boeing
-  model: B717
+  model: 717
   mode: Plane
   version: 07-04
-  slug: hawaiian-boeing-b717-07-04
+  slug: hawaiian-boeing-717-07-04
 
 - carrier: Hawaiian
   make: Boeing
-  model: B767
+  model: 767
   mode: Plane
   version: 2010
-  slug: hawaiian-boeing-b767-2010
+  slug: hawaiian-boeing-767-2010
 
 - carrier: Icelandair
   make: Boeing
@@ -385,10 +385,10 @@
 
 - carrier: Latam
   make: Boeing
-  model: B787-8
+  model: 787-8
   mode: Plane
   version: 002016
-  slug: latam-boeing-b787-8-002016
+  slug: latam-boeing-787-8-002016
 
 - carrier: Lufthansa
   make: Airbus
@@ -434,17 +434,17 @@
 
 - carrier: Republic
   make: Embraer
-  model: 170/175
+  model: E170/E175
   mode: Plane
   version: 03-07
-  slug: republic-embraer-170175-03-07
+  slug: republic-embraer-e170e175-03-07
 
 - carrier: Republic
   make: Embraer
-  model: E170/175
+  model: E170/E175
   mode: Plane
   version: 0316
-  slug: republic-embraer-e170175-0316
+  slug: republic-embraer-e170e175-0316
 
 - carrier: RNZAF
   make: Boeing
@@ -455,10 +455,10 @@
 
 - carrier: Royal Air Maroc
   make: Boeing
-  model: B737-800
+  model: 737-800
   mode: Plane
   version: 1
-  slug: royal-air-maroc-boeing-b737-800-1
+  slug: royal-air-maroc-boeing-737-800-1
 
 - carrier: Skytraders
   make: Airbus
@@ -518,31 +518,31 @@
 
 - carrier: United
   make: Boeing
-  model: B737-800/900
+  model: 737-800/900
   mode: Plane
   version: R2
-  slug: united-boeing-b737-800900-r2
+  slug: united-boeing-737-800900-r2
 
 - carrier: United
   make: Boeing
-  model: B757-200
+  model: 757-200
   mode: Plane
   version: R2
-  slug: united-boeing-b757-200-r2
+  slug: united-boeing-757-200-r2
 
 - carrier: United
   make: Boeing
-  model: B777-200
+  model: 777-200
   mode: Plane
   version: R1
-  slug: united-boeing-b777-200-r1
+  slug: united-boeing-777-200-r1
 
 - carrier: United
   make: Boeing
-  model: B737-700
+  model: 737-700
   mode: Plane
   version: R3
-  slug: united-boeing-b737-700-r3
+  slug: united-boeing-737-700-r3
 
 - carrier: US Airways
   make: Airbus
