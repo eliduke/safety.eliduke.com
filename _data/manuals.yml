@@ -12,45 +12,51 @@
 
 - carrier: Aero Republica
   make: Embraer
-  model: 190
+  model: E190
   version: 2009
-  slug: aero-republica-embraer-190-2009
+  slug: aero-republica-embraer-e190-2009
 
 - carrier: Air Berlin
   make: Airbus
-  model: 330
+  model: A330
   version: 2
-  slug: air-berlin-airbus-330-2
+  slug: air-berlin-airbus-a330-2
 
 - carrier: Air Berlin
   make: Boeing
-  model: 737-700
+  model: B737-700
   version: 1
-  slug: air-berlin-boeing-737-700-1
+  slug: air-berlin-boeing-b737-700-1
 
 - carrier: Air Berlin
-  make: Bombardier Dash 8
-  model: Q400
+  make: Bombardier
+  model: Dash8-Q400
   version: 2
   slug: air-berlin-bombardier-dash8-q400-2
 
-- carrier: Air France
-  make: Airbus
-  model: 320
-  version: 06-16
-  slug: air-france-airbus-320-06-16
+- carrier: Air Canada
+  make: Bombardier
+  model: Q400
+  version: March 2012
+  slug: air-canada-bombardier-q400-march-2012
 
 - carrier: Air France
   make: Airbus
-  model: 321
+  model: A320
+  version: 06-16
+  slug: air-france-airbus-a320-06-16
+
+- carrier: Air France
+  make: Airbus
+  model: A321
   version: 03-14
-  slug: air-france-airbus-321-03-14
+  slug: air-france-airbus-a321-03-14
 
 - carrier: Air Greenland
   make: Airbus
-  model: 330
+  model: A330
   version: 1
-  slug: air-greenland-airbus-330-1
+  slug: air-greenland-airbus-a330-1
 
 - carrier: Air New Zealand
   make: Boeing
@@ -72,7 +78,7 @@
 
 - carrier: Alaska
   make: Airbus
-  model: A319-A320
+  model: A319/A320
   version: 1118
   slug: alaska-airbus-a319a320-1118
 
@@ -114,9 +120,9 @@
 
 - carrier: American
   make: Airbus
-  model: 330
+  model: A330
   version: 04-15
-  slug: american-airbus-330-04-15
+  slug: american-airbus-a330-04-15
 
 - carrier: American
   make: Airbus
@@ -204,9 +210,9 @@
 
 - carrier: Delta
   make: Airbus
-  model: A320
-  version: SR-04-09
-  slug: delta-airbus-320-sr-04-09
+  model: A320 SR
+  version: 04-09
+  slug: delta-airbus-a320-sr-04-09
 
 - carrier: Delta
   make: Boeing
@@ -228,27 +234,27 @@
 
 - carrier: Delta
   make: Bombardier
-  model: CRJ700
+  model: CRJ700(OO)
   version: 10-12
   slug: delta-bombardier-crj700-10-12
 
 - carrier: Emirates
   make: Boeing
-  model: 777-300
+  model: B777-300
   version: 02-09
-  slug: emirates-boeing-777-300-02-09
+  slug: emirates-boeing-b777-300-02-09
 
 - carrier: Frontier
   make: Airbus
-  model: 319
+  model: A319
   version: 01-09
-  slug: frontier-airbus-319-01-09
+  slug: frontier-airbus-a319-01-09
 
 - carrier: Frontier
   make: Airbus
-  model: 319
+  model: A319
   version: 03-10
-  slug: frontier-airbus-319-03-10
+  slug: frontier-airbus-a319-03-10
 
 - carrier: Frontier
   make: Airbus
@@ -258,27 +264,27 @@
 
 - carrier: Hawaiian
   make: Airbus
-  model: 330
+  model: A330
   version: 06-15
-  slug: hawaiian-airbus-330-06-15
+  slug: hawaiian-airbus-a330-06-15
 
 - carrier: Hawaiian
   make: Boeing
-  model: 717
+  model: B717
   version: 01-15
-  slug: hawaiian-boeing-717-01-15
+  slug: hawaiian-boeing-b717-01-15
 
 - carrier: Hawaiian
   make: Boeing
-  model: 717
+  model: B717
   version: 07-04
-  slug: hawaiian-boeing-717-07-04
+  slug: hawaiian-boeing-b717-07-04
 
 - carrier: Hawaiian
   make: Boeing
-  model: 767
+  model: B767
   version: 2010
-  slug: hawaiian-boeing-767-2010
+  slug: hawaiian-boeing-b767-2010
 
 - carrier: Icelandair
   make: Boeing
@@ -294,15 +300,15 @@
 
 - carrier: Jet
   make: Airbus
-  model: 320
+  model: A320
   version: V1
-  slug: jet-airbus-320-v1
+  slug: jet-airbus-a320-v1
 
 - carrier: Jetblue
   make: Airbus
-  model: 320
+  model: A320
   version: 10-16
-  slug: jetblue-airbus-320-10-16
+  slug: jetblue-airbus-a320-10-16
 
 - carrier: Kenn Borek Air
   make: de Havilland DHC-6
@@ -330,27 +336,27 @@
 
 - carrier: Lufthansa
   make: Airbus
-  model: 319-100
+  model: A319-100
   version: 03-16
-  slug: lufthansa-airbus-319-100-03-16
+  slug: lufthansa-airbus-a319-100-03-16
 
 - carrier: Northwest
   make: Airbus
-  model: 320-sr
+  model: A320-SR
   version: 08-06
-  slug: northwest-airbus-320-sr-08-06
+  slug: northwest-airbus-a320-sr-08-06
 
 - carrier: Northwest
   make: Mcdonnell Douglas
-  model: Dc-9
+  model: DC-9
   version:
   slug: northwest-mcdonnell-douglas-dc-9
 
 - carrier: Nouvelair
   make: Airbus
-  model: 320
+  model: A320
   version: 1
-  slug: nouvelair-airbus-320-1
+  slug: nouvelair-airbus-a320-1
 
 - carrier: PHI
   make: Bell
@@ -376,17 +382,17 @@
   version: 0316
   slug: republic-embraer-e170175-0316
 
-- carrier: Rnzaf
+- carrier: RNZAF
   make: Boeing
   model: 757-200
   version: 1
   slug: rnzaf-boeing-757-200-1
 
-- carrier: Royal air maroc
+- carrier: Royal Air Maroc
   make: Boeing
-  model: 737-800
+  model: B737-800
   version: 1
-  slug: royal-air-maroc-boeing-737-800-1
+  slug: royal-air-maroc-boeing-b737-800-1
 
 - carrier: Skytraders
   make: Airbus
@@ -420,7 +426,7 @@
 
 - carrier: Southwest
   make: Boeing
-  model: 737-700800
+  model: 737-700/800
   version: 11-16
   slug: southwest-boeing-737-700800-11-16
 
@@ -432,27 +438,27 @@
 
 - carrier: United
   make: Airbus
-  model: 319
+  model: A319
   version: R3
-  slug: united-airbus-319-r3
+  slug: united-airbus-a319-r3
 
 - carrier: United
   make: Boeing
-  model: 737-800/900
+  model: B737-800/900
   version: R2
-  slug: united-boeing-737-800900-r2
+  slug: united-boeing-b737-800900-r2
 
 - carrier: United
   make: Boeing
-  model: 757-200
+  model: B757-200
   version: R2
-  slug: united-boeing-757-200-r2
+  slug: united-boeing-b757-200-r2
 
 - carrier: United
   make: Boeing
-  model: 777-200
+  model: B777-200
   version: R1
-  slug: united-boeing-777-200-r1
+  slug: united-boeing-b777-200-r1
 
 - carrier: United
   make: Boeing
@@ -460,14 +466,20 @@
   version: R3
   slug: united-boeing-b737-700-r3
 
-- carrier: Us Airways
+- carrier: US Airways
   make: Airbus
-  model: 320
+  model: A320
   version: R2
-  slug: us-airways-airbus-320-r2
+  slug: us-airways-airbus-a320-r2
 
-- carrier: Us Airways
-  make: Bombardier Dash 8
-  model: 300
+- carrier: US Airways
+  make: Bombardier
+  model: Dash 8-300
   version: R1
   slug: us-airways-bombardier-dash-8-300-r1
+
+- carrier: Virgin
+  make: Airbus
+  model: A321
+  version: 2
+  slug: virgin-airbus-a321-2
