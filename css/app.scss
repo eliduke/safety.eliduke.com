@@ -1,9 +1,11 @@
 ---
 ---
 
-#list {
-  font-size: 90%;
+#index {
+  .manual { width: 340px }
 }
+
+#list { font-size: 90% }
 
 #about {
   font-size: 120%;
@@ -11,8 +13,4 @@
   img {
     margin: 20px 0;
   }
-}
-
-.manual {
-  width: 340px
 }
