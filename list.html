@@ -14,9 +14,9 @@ layout: default
         </tr>
       </thead>
       <tbody>
-        {% for manual in site.data.manuals %}
+        {% for manual in site.manuals %}
           <tr>
-            <td>{{manual.carrier}}</td>
+            <td><a href="{{manual.url}}" class="link-secondary">{{manual.carrier}}</a></td>
             <td>{{manual.make}}</td>
             <td>{{manual.model}}</td>
             <td>{{manual.mode}}</td>

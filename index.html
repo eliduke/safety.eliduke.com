@@ -3,11 +3,13 @@ layout: default
 ---
 <div id="index" class="my-4">
   <div class="d-inline-flex flex-wrap flex-row justify-content-evenly align-items-center">
-    {% for manual in site.data.manuals %}
-      <div class="manual p-0 px-lg-4">
-        <img class="img-fluid" src="/images/manuals/{{manual.slug}}-small.jpg">
-        <p class="text-center text-muted mb-5">{{manual.carrier}}, {{manual.make}} {{manual.model}}</p>
-      </div>
+    {% for manual in site.manuals %}
+      <a href="{{manual.url}}">
+        <div class="manual p-0 px-lg-4">
+          <img class="img-fluid" src="/images/manuals/{{manual.slug}}-small.jpg">
+          <p class="text-center text-muted mb-5">{{manual.carrier}}, {{manual.make}} {{manual.model}}</p>
+        </div>
+      </a>
     {% endfor %}
   </div>
 </div>
