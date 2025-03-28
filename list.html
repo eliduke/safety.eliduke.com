@@ -15,7 +15,11 @@ layout: default
       <tbody>
         {% for manual in site.manuals %}
           <tr>
-            <td><a href="{{manual.url}}" class="link-secondary">{{manual.carrier}}</a></td>
+            <td>
+              <a href="{{manual.id}}" class="link-secondary">
+                {{manual.carrier}}
+              </a>
+            </td>
             <td>{{manual.make}} {{manual.model}}</td>
             <td>{{manual.mode}}</td>
           </tr>
